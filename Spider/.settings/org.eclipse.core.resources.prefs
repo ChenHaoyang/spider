@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//myspider/items.py=utf-8
+encoding//myspider/pipelines.py=utf-8
+encoding//myspider/settings.py=utf-8
+encoding//myspider/spiders/my_spider.py=utf-8
